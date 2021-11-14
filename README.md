@@ -32,7 +32,7 @@ This repo includes the *wxc* and *wxcore* packages, which are modified according
    - wx-0.92.3.0@sha256:c4685d4f1fcb92e279409eb9455bef41cbd336d0b557040a6966bcf4881124a1,1825
    - wxdirect-0.92.3.0@sha256:7533e84784560be0313b5940227870ea105975d581eab5b6ad5e8219d82dfaff,1740
    - git: git@github.com:chenyulue/wx-packages.git
-     commit: 09d3aa946d2ad546ecf4ccad5c1d6dd772e32ee4
+     commit: 2291dbb134c2604707aa21698ab75f8820a52fca
      subdirs:
        - wxc
        - wxcore
