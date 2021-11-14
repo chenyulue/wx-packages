@@ -25,6 +25,4 @@ This repo includes the *wxc* and *wxcore* packages, which are modified according
    stack new wx-learning
    ```
 
-   
-
-3. 
+3.  Editor the `stack.yaml` file by adding the corresponding packages.
